@@ -1,0 +1,26 @@
+.cont {
+	background-color: #000000;
+	background-image: url(../ch.jpg);
+	height: 1000px;
+	width: 1000px;
+	margin:auto;
+}
+.header {
+	background-color:#990000;
+	height: 100px;
+	width: 1000px;
+}
+.men {
+	background-color:#999999;
+	height: 100px;
+	width: 1000px;
+}
+table {
+	background-color: #FFFFFF;
+	float: left;
+	margin-top: 70px;
+	margin-left: 200px;
+	margin-bottom:0px;
+	width:600px;
+	height:auto;
+}
